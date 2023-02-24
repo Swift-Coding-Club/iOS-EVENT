@@ -3,8 +3,12 @@
 ## 지난 행사 기록
 
 <table>
+	<caption>종료된 행사</caption>
 	<tr>
-		<td> 종료 행사 </td>
+		<th>연도</th>
+		<th>월</th>
+	</tr>
+	<tr>
 		<td> 2023년 </td>
 		<td>
 			<a href="./2023/2023_03.md"> 03월 </a> | 
