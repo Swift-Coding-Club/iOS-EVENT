@@ -18,10 +18,10 @@
 
 
 ## 유튜브
-- **[개발자리](https://festa.io/events/3063)**
+- **[개발자리](https://festa.io/events/3063)** - 개발을 하다가 긿은 잃은 iOS 개발자를 위한 곳 
 
 ## iOS 개발모입
-- **[스위프트 코딩클럽](https://discord.gg/w4T2zgvbPv)**
+- **[스위프트 코딩클럽](https://discord.gg/w4T2zgvbPv)** - 혼자 개발하는 것에 지친 iOS 개발자를 위한 곳
 
 ## 온라인 강의
-- **[생활 iOS](https://www.opentutorials.org/course/5022)**
+- **[생활 iOS](https://www.opentutorials.org/course/5022)** - 무엇을 어떤 순서대로 공부해야할지 감이 오지 않는 초보 iOS 개발자를 위한 곳
