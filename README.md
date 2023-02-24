@@ -18,9 +18,9 @@
 
 ## 유튜브
 
-- **[개발자리](https://festa.io/events/3063)** - 개발을 하다가 긿은 잃은 iOS 개발자를 위한 곳
+- **[개발자리](https://festa.io/events/3063)** - 개발을 하다가 길을 잃은 iOS 개발자를 위한 곳
 
-## iOS 개발모입
+## iOS 개발모임
 
 - **[스위프트 코딩클럽](https://discord.gg/w4T2zgvbPv)** - 혼자 개발하는 것에 지친 iOS 개발자를 위한 곳
 
