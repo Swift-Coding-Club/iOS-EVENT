@@ -35,7 +35,7 @@
 
 ## 유튜브
 
-- **[개발자리](https://festa.io/events/3063)** - 개발을 하다가 길을 잃은 iOS 개발자를 위한 곳
+- **[개발자리](https://www.youtube.com/@Leeo25)** - 개발을 하다가 길을 잃은 iOS 개발자를 위한 곳
 
 ## iOS 개발모임
 
