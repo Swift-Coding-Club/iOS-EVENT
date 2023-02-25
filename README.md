@@ -30,7 +30,7 @@
 - **[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)**
   - 분류: `오프라인`, `Swift`
   - 주최: iOS Daejeon Club
-  - 일시: 03. 26(일) 14:00 ~ 20:00
+  - 일시: 03. 25(토) 14:00 ~ 20:00
 
 ## 유튜브
 
