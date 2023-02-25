@@ -28,7 +28,7 @@
 
 ## 2023년 03월
 - **[Apple Asia Pacific Design Challenge](https://developer.apple.com/kr/events/schedule/)**
-  - 분류: `온라인`, `세미나`
+  - 분류: `온라인`, `워크숍`
   - 주최: Apple Korea
   - 일시: 03. 07(일) 14:00 ~ 15:00
 
