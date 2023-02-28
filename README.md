@@ -19,6 +19,20 @@
 
 <br />
 
+
+## 2023년 02월
+
+- **[제 5회 와글와글 iOS](https://www.notion.so/leeo75/5-iOS-2023-2-25-4a53c9d83e884a95938adb133fd1d613?pvs=4)**
+  - 분류: `온라인`, `개발전반`
+  - 주최: 와글와글 iOS
+  - 일시: 02. 25(토) 20:30 ~ 21:30
+
+- **[야곰 테크캐스트 - IT 선배에게 듣는 일본 취업 스토리](https://yagom.net/courses/techcast-14/)**
+  - 분류: `온라인`, `취업이야기`
+  - 주최: 야곰아카데미
+  - 일시: 02. 28(토) 20:00 ~ 21:30
+
+
 ## 2023년 03월
 
 - **[Apple Asia Pacific Design Challenge](https://developer.apple.com/kr/events/schedule/)**
