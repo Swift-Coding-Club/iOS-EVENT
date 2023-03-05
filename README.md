@@ -47,6 +47,12 @@
   - 분류: `온라인`, `워크숍`
   - 주최: Apple Korea
   - 일시: 03. 06(월) 10:00 ~ 11:00, 03. 07(화) 14:00 ~ 15:00
+  
+- **[“디자인 챌린지 참가 신청 완료” 인증 이벤트!](https://www.instagram.com/p/CpZmvfmvMwq/?igshid=MDJmNzVkMjY%3D&fbclid=IwAR3O4gbii2wLhys4hAOF4GGLKj5Ln8AmkjyUC29f77X3T1a4W5PpOaR4zw0)**
+
+  - 분류: `온라인`, `이벤트`
+  - 주최: asyncswift
+  - 일시: 03. 07(화)
 
 - **[제 6회 와글와글 iOS](https://leeo75.notion.site/6-iOS-2023-3-xx-1298c5fbbf0d4b2ca2af26892f406a75)**
 
@@ -58,6 +64,13 @@
   - 분류: `오프라인`, `Swift`
   - 주최: iOS Daejeon Club
   - 일시: 03. 25(토) 14:00 ~ 20:00
+
+## 2023년 04월
+
+- **[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!](https://festa.io/events/3218)**
+  - 분류: `오프라인`, `Swift`
+  - 주최: Charming Swift
+  - 일시: 04. 08(토) 14:00 ~ 18:00
 
 ## 유튜브
 
