@@ -59,6 +59,11 @@
   - 분류: `온라인`, `개발전반`
   - 주최: 와글와글 iOS
   - 일시: 03. 11(토) 20:30 ~ 21:30
+  
+- #### **[let us: Go! 2023 Spring](https://let-us-go-2023-spring.vercel.app/)**
+  - 분류: `오프라인`, `iOS`
+  - 주최: let us: GO!
+  - 일시: 2023년 03월 25일 (토) 13:00 ~ 17:30
 
 - **[Design Challenge (Asia Pacific) - Part 2](https://developer.apple.com/events/view/2C68444T22/dashboard)**
 
