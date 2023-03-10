@@ -47,7 +47,7 @@
   - 분류: `온라인`, `워크숍`
   - 주최: Apple Korea
   - 일시: 03. 06(월) 10:00 ~ 11:00, 03. 07(화) 14:00 ~ 15:00
-  
+
 - **[“디자인 챌린지 참가 신청 완료” 인증 이벤트!](https://www.instagram.com/p/CpZmvfmvMwq/?igshid=MDJmNzVkMjY%3D&fbclid=IwAR3O4gbii2wLhys4hAOF4GGLKj5Ln8AmkjyUC29f77X3T1a4W5PpOaR4zw0)**
 
   - 분류: `온라인`, `이벤트`
@@ -65,17 +65,24 @@
   - 분류: `온라인`, `워크숍`
   - 주최: Apple Korea
   - 일시: 03. 20(월) 10:00 ~ 11:00, 03. 21(화) 14:00 ~ 15:00
-  
+
 - **[let us: Go! 2023 Spring](https://let-us-go-2023-spring.vercel.app/)**
+
   - 분류: `오프라인`, `iOS`
   - 주최: let us: GO!
   - 일시: 2023년 03월 25일 (토) 13:00 ~ 17:30
   - 신청: [festa](https://festa.io/events/rHLtLFeepwPu3Gwjm3Lq9a)
 
 - **[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)**
+
   - 분류: `오프라인`, `Swift`
   - 주최: iOS Daejeon Club
   - 일시: 03. 25(토) 14:00 ~ 20:00
+
+- **[Swift로 일상생활에서 쓸 수 있는 iOS앱 만들기!](https://event-us.kr/cs/event/58735?mibextid=S66gvF)**
+  - 분류: `온라인`, `iOS`
+  - 주최: 코드스테이츠
+  - 일시: 03. 26일(일) 13:30 ~ 17:30
 
 ## 2023년 04월
 
