@@ -78,8 +78,15 @@
   - 분류: `오프라인`, `Swift`
   - 주최: iOS Daejeon Club
   - 일시: 03. 25(토) 14:00 ~ 20:00
+  
+- **[제 7회 와글와글 iOS](https://www.notion.so/leeo75/7-iOS-2023-3-25-13880c4f2afd4a1c8cdab3ce68ed14fd?pvs=4)**
+
+  - 분류: `온라인`, `모듈화`
+  - 주최: 와글와글 iOS
+  - 일시: 03. 25(토) 20:30 ~ 21:30
 
 - **[Swift로 일상생활에서 쓸 수 있는 iOS앱 만들기!](https://event-us.kr/cs/event/58735?mibextid=S66gvF)**
+
   - 분류: `온라인`, `iOS`
   - 주최: 코드스테이츠
   - 일시: 03. 26일(일) 13:30 ~ 17:30
@@ -87,6 +94,7 @@
 ## 2023년 04월
 
 - **[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!](https://festa.io/events/3218)**
+
   - 분류: `오프라인`, `Swift`
   - 주최: Charming Swift
   - 일시: 04. 08(토) 14:00 ~ 18:00
