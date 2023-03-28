@@ -16,7 +16,7 @@
   	<tr>
     <td colspan="2"> 와글와글 iOS </td>
 		<td>
-      <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_03.md#%EC%A0%9C-5%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 7회 </a>
+      <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_03.md#%EC%A0%9C-7%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 7회 </a>
         |
 			<a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_02.md#%EC%A0%9C-5%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 5회 </a>
       |
