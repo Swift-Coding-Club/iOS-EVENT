@@ -16,6 +16,8 @@
   	<tr>
     <td colspan="2"> 와글와글 iOS </td>
 		<td>
+      <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_03.md#%EC%A0%9C-5%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 7회 </a>
+        |
 			<a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_02.md#%EC%A0%9C-5%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 5회 </a>
       |
       <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_02.md#%EC%A0%9C-4%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 4회 </a>
@@ -70,6 +72,7 @@
   - 분류: `온라인`, `모듈화`
   - 주최: 와글와글 iOS
   - 일시: 03. 25(토) 20:30 ~ 21:30
+  - 다시보기: [https://youtu.be/Tw2giypgf1A](https://youtu.be/Tw2giypgf1A)
 
 - #### **[Swift로 일상생활에서 쓸 수 있는 iOS앱 만들기!](https://event-us.kr/cs/event/58735?mibextid=S66gvF)**
 
