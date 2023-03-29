@@ -35,7 +35,7 @@
     <tr>
       <td> Charming Swift </td>
       <td>
-        <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/iDC_Seminar/Seminar/iOS-Dejeon-Club/%EC%A0%9C1%ED%9A%8C_%EC%A0%95%EA%B8%B0_%EC%84%B8%EB%AF%B8%EB%82%98/%EC%A0%9C1%ED%9A%8C_%EC%A0%95%EA%B8%B0_%EC%84%B8%EB%AF%B8%EB%82%98.md#%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-ios%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B2%8C-%EB%90%98%EC%97%88%EB%82%98%EC%9A%94"> 1회 </a>
+        <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/Seminar/Charming-Swift/%EC%A0%9C1%ED%9A%8C_%EC%A0%95%EA%B8%B0_%EC%84%B8%EB%AF%B8%EB%82%98/%EC%A0%9C1%ED%9A%8C_%EC%A0%95%EA%B8%B0_%EC%84%B8%EB%AF%B8%EB%82%98.md"> 1회 </a>
       </td>
     </tr>
 
