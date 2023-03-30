@@ -14,7 +14,8 @@
 		</td>
 	</tr>
   <tr>
-    <td colspan="2"> 와글와글 iOS </td>
+    <td> 와글와글 iOS </td>
+    <td> <a href="https://youtube.com/playlist?list=PL1PI2d-NlJ8t2X2VMihKC3uyCTR9yCJeQ"> 재생목록 </a> </td>
 		<td>
       <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_03.md#%EC%A0%9C-7%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 7회 </a>
         |
