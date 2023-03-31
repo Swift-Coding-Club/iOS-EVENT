@@ -106,6 +106,33 @@
   - 주최: Charming Swift
   - 일시: 04. 08(토) 14:00 ~ 18:00
 
+- #### **[디자인 지원자 스페셜](bit.ly/design_apr11)**
+
+  - 분류: `온라인`, `설명회`
+  - 주최: Apple Developer Academy
+  - 일시: 04. 11(화) 19:00 ~ 20:00
+
+- #### **[지원서 작성 꿀팁](bit.ly/lifejourney_apr18)**
+
+  - 분류: `온라인`, `설명회`
+  - 주최: Apple Developer Academy
+  - 일시: 04. 18(화) 19:00 ~ 20:00
+
+- #### **[도메인 지원자 스페셜](bit.ly/domain_apr25)**
+
+  - 분류: `온라인`, `설명회`
+  - 주최: Apple Developer Academy
+  - 일시: 04. 25(화) 19:00 ~ 20:00
+
+## 2023년 06월
+
+- #### **[상반기 마무리 총정리](bit.ly/final_jun1)**
+
+  - 분류: `온라인`, `설명회`
+  - 주최: Apple Developer Academy
+  - 일시: 06. 01(목) 19:00 ~ 20:00
+
+
 ## 유튜브
 
 - **[개발자리](https://www.youtube.com/@Leeo25)** - 개발을 하다가 길을 잃은 iOS 개발자를 위한 곳
