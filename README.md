@@ -15,7 +15,7 @@
 	</tr>
   <tr>
     <td> 와글와글 iOS </td>
-    <td> <a href="https://youtube.com/playlist?list=PL1PI2d-NlJ8t2X2VMihKC3uyCTR9yCJeQ"> 재생목록 </a> </td>
+    <td> <a href="https://youtube.com/playlist?list=PL1PI2d-NlJ8t2X2VMihKC3uyCTR9yCJeQ"> 다시보기 </a> </td>
 		<td>
       <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/2023/2023_03.md#%EC%A0%9C-7%ED%9A%8C-%EC%99%80%EA%B8%80%EC%99%80%EA%B8%80-ios"> 7회 </a>
         |
@@ -132,7 +132,6 @@
   - 주최: Apple Developer Academy
   - 일시: 06. 01(목) 19:00 ~ 20:00
 
-
 ## 2023년 07월
 
 - #### **[KWDC]()**
@@ -162,15 +161,23 @@
 ```
 ${iOS-EVENT}
 ├── 2023
-│   └── 2023_03.md
-└── README.md
+│   ├── 2023_02.md
+│   ├── 2023_03.md
+│   └── 2023_04.md
+├── README.md
+└── Seminar
+    ├── Charming-Swift
+    │   └── 제1회_정기_세미나
+    │       └── 제1회_정기_세미나.md
+    └── iOS-Dejeon-Club
+        └── 제1회_정기_세미나
+            └── 제1회_정기_세미나.md
 ```
 
-1. `iOS-EVENT` 폴더에 해당연도가 없다면 `해당연도` 폴더를 만들고, `해당연도` 폴더에 `해당연도_월.md` 파일을 만듭니다.
-
-2. `해당연도_월.md` 파일에는 해당 월에 열리는 iOS 행사를 아래와 같은 형식으로 작성합니다.
+1. `README.md` 파일에는 해당 연도에 열리는 iOS 행사를 아래와 같은 형식으로 작성합니다. (링크는 해당 이벤트로 연결되어야 하며, 행사 날짜에 대해서 오름차순으로 정렬해주세요.)
 
 ```
+
 ## 2023년 03월
 
 - #### **[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)**
@@ -180,10 +187,13 @@ ${iOS-EVENT}
 
 ```
 
-3. `README.md` 파일에는 해당 연도에 열리는 iOS 행사를 아래와 같은 형식으로 작성합니다. (링크는 해당 이벤트로 연결되어야 합니다.)
+**해당 월이 지났다면 지난 행사들을 아래와 같이 아카이빙해주세요.**
+
+1. `iOS-EVENT` 폴더에 해당연도가 없다면 `해당연도` 폴더를 만들고, `해당연도` 폴더에 `해당연도_월.md` 파일을 만듭니다.
+
+2. `해당연도_월.md` 파일에는 해당 월에 열렸던 iOS 행사를 아래와 같은 형식으로 작성합니다.
 
 ```
-
 ## 2023년 03월
 
 - #### **[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)**
