@@ -106,19 +106,19 @@
   - 주최: Charming Swift
   - 일시: 04. 08(토) 14:00 ~ 18:00
 
-- #### **[디자인 지원자 스페셜](bit.ly/design_apr11)**
+- #### **[애플 디벨로퍼 아카데미 디자인 지원자 스페셜](bit.ly/design_apr11)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
   - 일시: 04. 11(화) 19:00 ~ 20:00
 
-- #### **[지원서 작성 꿀팁](bit.ly/lifejourney_apr18)**
+- #### **[애플 디벨로퍼 아카데미 지원서 작성 꿀팁](bit.ly/lifejourney_apr18)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
   - 일시: 04. 18(화) 19:00 ~ 20:00
 
-- #### **[도메인 지원자 스페셜](bit.ly/domain_apr25)**
+- #### **[애플 디벨로퍼 아카데미 도메인 지원자 스페셜](bit.ly/domain_apr25)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
@@ -126,12 +126,20 @@
 
 ## 2023년 06월
 
-- #### **[상반기 마무리 총정리](bit.ly/final_jun1)**
+- #### **[애플 디벨로퍼 아카데미 상반기 마무리 총정리](bit.ly/final_jun1)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
   - 일시: 06. 01(목) 19:00 ~ 20:00
 
+
+## 2023년 07월
+
+- #### **[KWDC]()**
+
+  - 분류: `오프라인`, `Apple platform developer`
+  - 주최: 한국애플커뮤니티연합
+  - 일시: 07. 18(화) 10:00 ~ 18:00
 
 ## 유튜브
 
