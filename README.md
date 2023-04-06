@@ -112,11 +112,17 @@
   - 주최: Apple Developer Academy
   - 일시: 04. 11(화) 19:00 ~ 20:00
 
-- #### **[애플 디벨로퍼 아카데미 지원서 작성 꿀팁](bit.ly/lifejourney_apr18)**
+- #### **[애플 디벨로퍼 아카데미 디자인 지원자 스페셜](bit.ly/design_apr11)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
-  - 일시: 04. 18(화) 19:00 ~ 20:00
+  - 일시: 04. 11(화) 19:00 ~ 20:00
+
+- #### **[제 1회 Swift Coding Club 오프라인 모임](https://festa.io/events/3316)**
+
+  - 분류: `오프라인`, `Swift`
+  - 주최: Swift Coding Club
+  - 일시: 04. 15(토) 16:00 ~ 19:00
 
 - #### **[애플 디벨로퍼 아카데미 도메인 지원자 스페셜](bit.ly/domain_apr25)**
 
