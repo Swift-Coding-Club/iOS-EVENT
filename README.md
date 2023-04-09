@@ -106,13 +106,7 @@
   - 주최: Charming Swift
   - 일시: 04. 08(토) 14:00 ~ 18:00
 
-- #### **[애플 디벨로퍼 아카데미 디자인 지원자 스페셜](bit.ly/design_apr11)**
-
-  - 분류: `온라인`, `설명회`
-  - 주최: Apple Developer Academy
-  - 일시: 04. 11(화) 19:00 ~ 20:00
-
-- #### **[애플 디벨로퍼 아카데미 디자인 지원자 스페셜](bit.ly/design_apr11)**
+- #### **[애플 디벨로퍼 아카데미 디자인 지원자 스페셜](https://idserve-net.zoom.us/meeting/register/tZYtceusrjsjGtE0KH6PV4M9m9PGjqyly8Kl#/registration)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
@@ -124,7 +118,7 @@
   - 주최: Swift Coding Club
   - 일시: 04. 15(토) 16:00 ~ 19:00
 
-- #### **[애플 디벨로퍼 아카데미 도메인 지원자 스페셜](bit.ly/domain_apr25)**
+- #### **[애플 디벨로퍼 아카데미 도메인 지원자 스페셜](https://idserve-net.zoom.us/meeting/register/tZYpcuqqrzgpG9cU5aCAKsrF48LBW5pjQCRh#/registration)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
@@ -132,7 +126,7 @@
 
 ## 2023년 06월
 
-- #### **[애플 디벨로퍼 아카데미 상반기 마무리 총정리](bit.ly/final_jun1)**
+- #### **[애플 디벨로퍼 아카데미 상반기 마무리 총정리](https://idserve-net.zoom.us/meeting/register/tZAvf-2spz4oGdXZ7Bh4pq8S-7uD0i5moXp0#/registration)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
