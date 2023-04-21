@@ -118,11 +118,27 @@
   - 주최: Swift Coding Club
   - 일시: 04. 15(토) 16:00 ~ 19:00
 
+- #### **[제 8회 와글와글 iOS](https://www.notion.so/leeo75/8-iOS-2023-4-22-a8435e4e863946fe99e15d145a629041?pvs=4)**
+
+  - 분류: `온라인`, `토이프로젝트`
+  - 주최: 와글와글 iOS
+  - 일시: 04. 22(토) 20:30 ~ 21:30
+  - 다시보기: 업로드예정
+
 - #### **[애플 디벨로퍼 아카데미 도메인 지원자 스페셜](https://idserve-net.zoom.us/meeting/register/tZYpcuqqrzgpG9cU5aCAKsrF48LBW5pjQCRh#/registration)**
 
   - 분류: `온라인`, `설명회`
   - 주최: Apple Developer Academy
   - 일시: 04. 25(화) 19:00 ~ 20:00
+
+## 2023년 05월
+
+- #### **[제 9회 와글와글 iOS](https://www.notion.so/leeo75/9-iOS-2023-5-6-e0e22fee60514e668eb24155afa0134a?pvs=4)**
+
+  - 분류: `온라인`, `취업뽀개기`
+  - 주최: 와글와글 iOS
+  - 일시: 05. 06(토) 20:30 ~ 21:30
+  - 다시보기: 업로드예정
 
 ## 2023년 06월
 
