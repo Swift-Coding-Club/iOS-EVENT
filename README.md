@@ -123,7 +123,7 @@
   - 분류: `온라인`, `토이프로젝트`
   - 주최: 와글와글 iOS
   - 일시: 04. 22(토) 20:30 ~ 21:30
-  - 다시보기: 업로드예정
+  - 다시보기: [https://youtu.be/mZcrpFy5x38](https://youtu.be/mZcrpFy5x38)
 
 - #### **[애플 디벨로퍼 아카데미 도메인 지원자 스페셜](https://idserve-net.zoom.us/meeting/register/tZYpcuqqrzgpG9cU5aCAKsrF48LBW5pjQCRh#/registration)**
 
