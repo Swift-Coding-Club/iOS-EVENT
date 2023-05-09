@@ -153,6 +153,14 @@
   - 주최: Apple Developer Academy
   - 일시: 06. 01(목) 19:00 ~ 20:00
 
+- #### **[let us: Hack!(a.k.a 찍먹톤)](https://gamma.app/docs/let-us-Go--qsr1y57vqdo5nxj?mode=doc)**
+
+  - 분류: `오프라인`, `해커톤`
+  - 주최: let us: Go!
+  - 일시: 06. 10(토) 10:00 ~ 21:00
+  - 신청: [Google forms](https://docs.google.com/forms/d/1if9UU46XQ6edj9oLtxp6H3gRPIGF85ENLqM4l7ytYjA/edit)
+
+
 ## 2023년 07월
 
 - #### **[KWDC]()**
