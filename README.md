@@ -46,91 +46,6 @@
 
 <br />
 
-## 2023년 03월
-
-- #### **[Apple Asia Pacific Design Challenge](https://developer.apple.com/kr/events/schedule/)**
-
-  - 분류: `온라인`, `워크숍`
-  - 주최: Apple Korea
-  - 일시: 03. 06(월) 10:00 ~ 11:00, 03. 07(화) 14:00 ~ 15:00
-
-- #### **[“디자인 챌린지 참가 신청 완료” 인증 이벤트!](https://www.instagram.com/p/CpZmvfmvMwq/?igshid=MDJmNzVkMjY%3D&fbclid=IwAR3O4gbii2wLhys4hAOF4GGLKj5Ln8AmkjyUC29f77X3T1a4W5PpOaR4zw0)**
-
-  - 분류: `온라인`, `이벤트`
-  - 주최: asyncswift
-  - 일시: 03. 07(화)
-
-- #### **[제 6회 와글와글 iOS](https://leeo75.notion.site/6-iOS-2023-3-xx-1298c5fbbf0d4b2ca2af26892f406a75)**
-
-  - 분류: `온라인`, `개발전반`
-  - 주최: 와글와글 iOS
-  - 일시: 03. 11(토) 20:30 ~ 21:30
-
-- #### **[Design Challenge (Asia Pacific) - Part 2](https://developer.apple.com/events/view/2C68444T22/dashboard)**
-
-  - 분류: `온라인`, `워크숍`
-  - 주최: Apple Korea
-  - 일시: 03. 20(월) 10:00 ~ 11:00, 03. 21(화) 14:00 ~ 15:00
-
-- #### **[let us: Go! 2023 Spring](https://let-us-go-2023-spring.vercel.app/)**
-
-  - 분류: `오프라인`, `iOS`
-  - 주최: let us: GO!
-  - 일시: 2023년 03월 25일 (토) 13:00 ~ 17:30
-  - 신청: [festa](https://festa.io/events/rHLtLFeepwPu3Gwjm3Lq9a)
-
-- #### **[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)**
-
-  - 분류: `오프라인`, `Swift`
-  - 주최: iOS Daejeon Club
-  - 일시: 03. 25(토) 14:00 ~ 20:00
-
-- #### **[제 7회 와글와글 iOS](https://www.notion.so/leeo75/7-iOS-2023-3-25-13880c4f2afd4a1c8cdab3ce68ed14fd?pvs=4)**
-
-  - 분류: `온라인`, `모듈화`
-  - 주최: 와글와글 iOS
-  - 일시: 03. 25(토) 20:30 ~ 21:30
-  - 다시보기: [https://youtu.be/Tw2giypgf1A](https://youtu.be/Tw2giypgf1A)
-
-- #### **[Swift로 일상생활에서 쓸 수 있는 iOS앱 만들기!](https://event-us.kr/cs/event/58735?mibextid=S66gvF)**
-
-  - 분류: `온라인`, `iOS`
-  - 주최: 코드스테이츠
-  - 일시: 03. 26일(일) 13:30 ~ 17:30
-
-## 2023년 04월
-
-- #### **[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!](https://festa.io/events/3218)**
-
-  - 분류: `오프라인`, `Swift`
-  - 주최: Charming Swift
-  - 일시: 04. 08(토) 14:00 ~ 18:00
-
-- #### **[애플 디벨로퍼 아카데미 디자인 지원자 스페셜](https://idserve-net.zoom.us/meeting/register/tZYtceusrjsjGtE0KH6PV4M9m9PGjqyly8Kl#/registration)**
-
-  - 분류: `온라인`, `설명회`
-  - 주최: Apple Developer Academy
-  - 일시: 04. 11(화) 19:00 ~ 20:00
-
-- #### **[제 1회 Swift Coding Club 오프라인 모임](https://festa.io/events/3316)**
-
-  - 분류: `오프라인`, `Swift`
-  - 주최: Swift Coding Club
-  - 일시: 04. 15(토) 16:00 ~ 19:00
-
-- #### **[제 8회 와글와글 iOS](https://www.notion.so/leeo75/8-iOS-2023-4-22-a8435e4e863946fe99e15d145a629041?pvs=4)**
-
-  - 분류: `온라인`, `토이프로젝트`
-  - 주최: 와글와글 iOS
-  - 일시: 04. 22(토) 20:30 ~ 21:30
-  - 다시보기: [https://youtu.be/mZcrpFy5x38](https://youtu.be/mZcrpFy5x38)
-
-- #### **[애플 디벨로퍼 아카데미 도메인 지원자 스페셜](https://idserve-net.zoom.us/meeting/register/tZYpcuqqrzgpG9cU5aCAKsrF48LBW5pjQCRh#/registration)**
-
-  - 분류: `온라인`, `설명회`
-  - 주최: Apple Developer Academy
-  - 일시: 04. 25(화) 19:00 ~ 20:00
-
 ## 2023년 05월
 
 - #### **[제 9회 와글와글 iOS](https://www.notion.so/leeo75/9-iOS-2023-5-6-e0e22fee60514e668eb24155afa0134a?pvs=4)**
@@ -139,11 +54,11 @@
   - 주최: 와글와글 iOS
   - 일시: 05. 06(토) 20:30 ~ 21:30
   - 다시보기: 업로드예정
-  
+
 - #### **[부스트캠프 웹/모바일 8기](https://boostcamp.connect.or.kr/guide_wm.html)**
   - 분류: `iOS`
   - 주최: 네이버 커넥트 재단
-  - 일시: 05. 02 ~ 06.12(월, 오전 11시) 
+  - 일시: 05. 02 ~ 06.12(월, 오전 11시)
 
 ## 2023년 06월
 
@@ -159,7 +74,6 @@
   - 주최: let us: Go!
   - 일시: 06. 10(토) 10:00 ~ 21:00
   - 신청: [Google forms](https://docs.google.com/forms/d/1if9UU46XQ6edj9oLtxp6H3gRPIGF85ENLqM4l7ytYjA/edit)
-
 
 ## 2023년 07월
 
