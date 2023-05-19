@@ -77,6 +77,11 @@
 
 ## 2023년 07월
 
+- #### **[iOS meets ML](https://ios-iga.vercel.app/)**
+  - 분류: `오프라인`, `iOS` `ML`
+  - 주최: iOS iGA(iOS 아이가)
+  - 일시: 07. 08(화) 14:00 ~ 22:00
+
 - #### **[KWDC]()**
 
   - 분류: `오프라인`, `Apple platform developer`
