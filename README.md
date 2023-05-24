@@ -68,6 +68,18 @@
   - 주최: Apple Developer Academy
   - 일시: 06. 01(목) 19:00 ~ 20:00
 
+- #### **[1st IN-KO online meet up](bit.ly/1st-INKO)**
+
+  - 분류: `온라인`, `networking`
+  - 주최: Swift IN-KO
+  - 일시: 06. 03(토) 15:00 ~ 17:00
+
+- #### **[WWDC Watch Party 2023](https://festa.io/events/3547)**
+
+  - 분류: `오프라인`, `WWDC`
+  - 주최: WWDC Watch Party 2023
+  - 일시: 06. 05(월) 23:00 ~ 05:30
+
 - #### **[let us: Hack!(a.k.a 찍먹톤)](https://gamma.app/docs/let-us-Go--qsr1y57vqdo5nxj?mode=doc)**
 
   - 분류: `오프라인`, `해커톤`
