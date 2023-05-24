@@ -68,7 +68,7 @@
   - 주최: Apple Developer Academy
   - 일시: 06. 01(목) 19:00 ~ 20:00
 
-- #### **[1st IN-KO online meet up](https://airtable.com/shr0DGQpYDYQkg647))**
+- #### **[1st IN-KO online meet up](https://airtable.com/shr0DGQpYDYQkg647)**
 
   - 분류: `온라인`, `networking`
   - 주최: Swift IN-KO
