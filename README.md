@@ -80,12 +80,24 @@
   - 주최: WWDC Watch Party 2023
   - 일시: 06. 05(월) 23:00 ~ 05:30
 
+- #### **[Let's Watch Apple WWDC Online Asia Together](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/293796757/)**
+
+  - 분류: `온라인`, `WWDC`
+  - 주최: Seoul iOS Meetup
+  - 일시: 06. 06(화) 02:00 ~ 04:00
+
 - #### **[let us: Hack!(a.k.a 찍먹톤)](https://gamma.app/docs/let-us-Go--qsr1y57vqdo5nxj?mode=doc)**
 
   - 분류: `오프라인`, `해커톤`
   - 주최: let us: Go!
   - 일시: 06. 10(토) 10:00 ~ 21:00
   - 신청: [Google forms](https://docs.google.com/forms/d/1if9UU46XQ6edj9oLtxp6H3gRPIGF85ENLqM4l7ytYjA/edit)
+
+- #### **[Seoul iOS Meetup [June 2023]](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/293856626/)**
+
+  - 분류: `오프라인`, `WWDC`
+  - 주최: Seoul iOS Meetup
+  - 일시: 06. 17(토) 14:00 ~ 17:00
 
 ## 2023년 07월
 
