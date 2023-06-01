@@ -74,6 +74,12 @@
   - 주최: Swift IN-KO
   - 일시: 06. 03(토) 15:00 ~ 17:00
 
+- #### **[11 회차 와글와글 iOS](https://discord.gg/CheamVKw4h)**
+
+  - 분류: `온라인`, `해외취업`
+  - 주최: 와글와글 iOS
+  - 일시: 06. 03(토) 20:30 ~ 21:30
+
 - #### **[WWDC Watch Party 2023](https://festa.io/events/3547)**
 
   - 분류: `오프라인`, `WWDC`
