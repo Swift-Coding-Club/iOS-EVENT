@@ -39,26 +39,16 @@
         <a href="https://github.com/Swift-Coding-Club/iOS-EVENT/blob/main/Seminar/Charming-Swift/%EC%A0%9C1%ED%9A%8C_%EC%A0%95%EA%B8%B0_%EC%84%B8%EB%AF%B8%EB%82%98/%EC%A0%9C1%ED%9A%8C_%EC%A0%95%EA%B8%B0_%EC%84%B8%EB%AF%B8%EB%82%98.md"> 1회 </a>
       </td>
     </tr>
-
+    <tr>
+      <td> <a href ="https://ios-iga.vercel.app/"> iOS iGA</td>
+      <td>
+        <a href="https://ios-iga.vercel.app/"> 1회 </a>
+      </td>
+    </tr>
   </tr>
-
 </table>
 
 <br />
-
-## 2023년 05월
-
-- #### **[제 9회 와글와글 iOS](https://www.notion.so/leeo75/9-iOS-2023-5-6-e0e22fee60514e668eb24155afa0134a?pvs=4)**
-
-  - 분류: `온라인`, `취업뽀개기`
-  - 주최: 와글와글 iOS
-  - 일시: 05. 06(토) 20:30 ~ 21:30
-  - 다시보기: 업로드예정
-
-- #### **[부스트캠프 웹/모바일 8기](https://boostcamp.connect.or.kr/guide_wm.html)**
-  - 분류: `iOS`
-  - 주최: 네이버 커넥트 재단
-  - 일시: 05. 02 ~ 06.12(월, 오전 11시)
 
 ## 2023년 06월
 
@@ -108,6 +98,7 @@
 ## 2023년 07월
 
 - #### **[iOS meets ML](https://ios-iga.vercel.app/)**
+
   - 분류: `오프라인`, `iOS`, `ML`
   - 주최: iOS iGA(iOS 아이가)
   - 일시: 07. 08(토) 14:00 ~ 22:00
@@ -125,6 +116,8 @@
 ## iOS 개발모임
 
 - **[스위프트 코딩클럽](https://discord.gg/w4T2zgvbPv)** - 혼자 개발하는 것에 지친 iOS 개발자를 위한 곳
+
+- **[iOS iGA](https://discord.gg/7BKZgFjGWV)** - 부산 Swift 개발자를 위한 곳
 
 ## 온라인 강의
 
