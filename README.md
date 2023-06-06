@@ -95,6 +95,14 @@
   - 주최: Seoul iOS Meetup
   - 일시: 06. 17(토) 14:00 ~ 17:00
 
+- #### **[2023 adiOS Summore]([https://gamma.app/docs/let-us-Go--qsr1y57vqdo5nxj?mode=doc](https://festa.io/events/3556))**
+
+  - 분류: `오프라인`, `해커톤`
+  - 주최: adiOS
+  - 일시: 06. 24(토) 10:00 ~ 16:00
+  - 신청: [festa](https://festa.io/events/3556)
+
+
 ## 2023년 07월
 
 - #### **[iOS meets ML](https://ios-iga.vercel.app/)**
