@@ -110,6 +110,7 @@
   - 분류: `오프라인`, `iOS`, `ML`, `협업`
   - 주최: iOS iGA(iOS 아이가)
   - 일시: 07. 08(토) 14:00 ~ 22:00
+  - 신청: [festa](https://festa.io/events/3615)
 
 - #### **[KWDC](https://kwdc.dev)**
 
