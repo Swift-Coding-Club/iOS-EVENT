@@ -105,6 +105,13 @@
 
 ## 2023년 07월
 
+- #### **[스위프트 코딩클럽 2023 하반기 활동멤버 모집](https://festa.io/events/3672)**
+
+  - 분류: `온라인`, `swift`
+  - 주최: swift coding club
+  - 일시: 07. 01(토) ~ 12. 30(토)
+  - 신청: [festa](https://festa.io/events/3672)
+
 - #### **[iOS meets ML](https://ios-iga.vercel.app/)**
 
   - 분류: `오프라인`, `iOS`, `ML`, `협업`
