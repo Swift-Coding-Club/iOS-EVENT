@@ -118,6 +118,12 @@
   - 주최: iOS iGA(iOS 아이가)
   - 일시: 07. 08(토) 14:00 ~ 22:00
   - 신청: [festa](https://festa.io/events/3615)
+ 
+- #### **[Seoul iOS Meetup [July 2023]](https://www.meetup.com/seoul-ios-meetup/events/294368177)**
+
+  - 분류: `오프라인`, `networking`
+  - 주최: Seoul iOS Meetup
+  - 일시: 07. 15(토) 14:00 ~ 17:00
 
 - #### **[KWDC](https://kwdc.dev)**
 
