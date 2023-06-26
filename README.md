@@ -102,6 +102,12 @@
   - 일시: 06. 24(토) 10:00 ~ 16:00
   - 신청: [festa](https://festa.io/events/3556)
 
+- #### **[스위프트 코딩클럽 하반기 오거나이저 모집](https://forms.gle/J69CZA4ej6Tj1seT8)**
+
+  - 분류: `swift`
+  - 주최: swift coding club
+  - 일시: 06. 21(수) ~ 06. 29(목)
+  - 지원: [https://forms.gle/J69CZA4ej6Tj1seT8](https://forms.gle/J69CZA4ej6Tj1seT8)
 
 ## 2023년 07월
 
@@ -109,7 +115,7 @@
 
   - 분류: `온라인`, `swift`
   - 주최: swift coding club
-  - 일시: 07. 01(토) ~ 12. 30(토)
+  - 일시: 07. 15(토) ~ 12. 30(토)
   - 신청: [festa](https://festa.io/events/3672)
 
 - #### **[WWDC23 요약](https://developer.apple.com/kr/events/schedule/)**
