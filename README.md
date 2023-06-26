@@ -112,6 +112,12 @@
   - 일시: 07. 01(토) ~ 12. 30(토)
   - 신청: [festa](https://festa.io/events/3672)
 
+- #### **[WWDC23 요약](https://developer.apple.com/kr/events/schedule/)**
+
+  - 분류: `온라인`, `WWDC`
+  - 주최: Apple
+  - 일시: 07. 04(화) 10:00 ~ 17:00
+
 - #### **[iOS meets ML](https://ios-iga.vercel.app/)**
 
   - 분류: `오프라인`, `iOS`, `ML`, `협업`
