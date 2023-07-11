@@ -130,6 +130,12 @@
   - 주최: iOS iGA(iOS 아이가)
   - 일시: 07. 08(토) 14:00 ~ 22:00
   - 신청: [festa](https://festa.io/events/3615)
+  
+  - #### **[WWDC23 Recap: 같이 Recap](https://discord.com/channels/1113253077714214973/1125616613501190214)**
+
+  - 분류: `온라인`, `WWDC`
+  - 주최: AsyncSwift
+  - 일시: 07. 10(월) 19:00 ~ 21:00
  
 - #### **[Seoul iOS Meetup [July 2023]](https://www.meetup.com/seoul-ios-meetup/events/294368177)**
 
