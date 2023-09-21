@@ -52,6 +52,29 @@
 
 <br />
 
+## 2023년 10월
+- #### **[Let'Swift 2023](https://letswift.kr/2023/)**
+
+  - 분류: `오프라인`, `swift`
+  - 주최: Let'Swift
+  - 일시: 10. 13(금)
+  - 신청: [festa](https://festa.io/events/3860)
+ 
+- #### **[SyncSwift 2023](https://letswift.kr/2023/)**
+
+  - 분류: `오프라인`, `swift`
+  - 주최: Async Swift
+  - 일시: 10. 21(토)
+  - 신청: 
+
+## 2023년 09월
+- #### **[제 2회 컨퍼런스 “스유가 왔스유~(SwiftUI)”](https://festa.io/events/3898)**
+
+  - 분류: `오프라인`, `swift`
+  - 주최: Charming Swift
+  - 일시: 09. 23(토)
+  - 신청: [festa](https://festa.io/events/3898)
+
 ## 2023년 07월
 
 - #### **[스위프트 코딩클럽 2023 하반기 활동멤버 모집](https://festa.io/events/3672)**
