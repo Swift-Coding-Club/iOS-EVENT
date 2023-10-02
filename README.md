@@ -65,7 +65,7 @@
   - 분류: `오프라인`, `swift`
   - 주최: Async Swift
   - 일시: 10. 21(토)
-  - 신청: 
+  - 신청: [티켓구매링크](https://smartstore.naver.com/asyncswift/products/9280007233)
 
 ## 2023년 09월
 - #### **[제 2회 컨퍼런스 “스유가 왔스유~(SwiftUI)”](https://festa.io/events/3898)**
