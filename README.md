@@ -8,7 +8,10 @@
     <td> 전체 행사 </td>
 		<td> 2023년 </td>
 		<td>
-			<a href="./2023/2023_05.md"> 06월 </a> | 
+			<a href="./2023/2023_09.md"> 09월 </a> | 
+			<a href="./2023/2023_08.md"> 08월 </a> | 
+			<a href="./2023/2023_07.md"> 07월 </a> | 
+			<a href="./2023/2023_06.md"> 06월 </a> | 
 			<a href="./2023/2023_05.md"> 05월 </a> | 
 		        <a href="./2023/2023_04.md"> 04월 </a> | 
 			<a href="./2023/2023_03.md"> 03월 </a> | 
@@ -82,49 +85,11 @@
   - 일시: 09. 23(토)
   - 신청: [festa](https://festa.io/events/3898)
 
-## 2023년 07월
-
-- #### **[스위프트 코딩클럽 2023 하반기 활동멤버 모집](https://festa.io/events/3672)**
-
-  - 분류: `온라인`, `swift`
-  - 주최: swift coding club
-  - 일시: 07. 15(토) ~ 12. 30(토)
-  - 신청: [festa](https://festa.io/events/3672)
-
-- #### **[WWDC23 요약](https://developer.apple.com/kr/events/schedule/)**
-
-  - 분류: `온라인`, `WWDC`
-  - 주최: Apple
-  - 일시: 07. 04(화) 10:00 ~ 17:00
-
-- #### **[iOS meets ML](https://ios-iga.vercel.app/)**
-
-  - 분류: `오프라인`, `iOS`, `ML`, `협업`
-  - 주최: iOS iGA(iOS 아이가)
-  - 일시: 07. 08(토) 14:00 ~ 22:00
-  - 신청: [festa](https://festa.io/events/3615)
-  
-- #### **[WWDC23 Recap: 같이 Recap](https://discord.com/channels/1113253077714214973/1125616613501190214)**
-
-  - 분류: `온라인`, `WWDC`
-  - 주최: AsyncSwift
-  - 일시: 07. 10(월) 19:00 ~ 21:00
- 
-- #### **[Seoul iOS Meetup [July 2023]](https://www.meetup.com/seoul-ios-meetup/events/294368177)**
-
-  - 분류: `오프라인`, `networking`
-  - 주최: Seoul iOS Meetup
-  - 일시: 07. 15(토) 14:00 ~ 17:00
-
-- #### **[KWDC](https://kwdc.dev)**
-
-  - 분류: `오프라인`, `Apple platform developer`
-  - 주최: KWDC 준비위원회
-  - 일시: 07. 18(화) 10:00 ~ 18:00
 
 ## 유튜브
 
 - **[개발자리](https://www.youtube.com/@Leeo25)** - 개발을 하다가 길을 잃은 iOS 개발자를 위한 곳
+- **[woozoobro](https://www.youtube.com/channel/UCDu6yjwSyDRePL-4yDBnv0Q) - iOS 개발을 할 떄 참고하면 좋은 곳
 
 ## iOS 개발모임
 
